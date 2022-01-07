@@ -1,0 +1,6 @@
+.env
+*.db*
+*.json
+*.txt
+downloads/**
+/main
