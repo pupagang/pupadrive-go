@@ -7,12 +7,12 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/kkdai/youtube/v2 v2.7.6
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
-	google.golang.org/api v0.69.0
+	google.golang.org/api v0.70.0
 )
 
 require gopkg.in/tucnak/telebot.v3 v3.0.0-20211217125808-d053f01c3002
 
-require cloud.google.com/go/compute v1.2.0 // indirect
+require cloud.google.com/go/compute v1.3.0 // indirect
 
 require (
 	github.com/RoaringBitmap/roaring v0.9.4 // indirect
@@ -80,7 +80,7 @@ require (
 	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto v0.0.0-20220211171837-173942840c17 // indirect
+	google.golang.org/genproto v0.0.0-20220218161850-94dd64e39d7c // indirect
 	google.golang.org/grpc v1.44.0 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 	modernc.org/libc v1.13.2 // indirect
