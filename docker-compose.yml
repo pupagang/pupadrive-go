@@ -1,0 +1,23 @@
+version: "3.3"
+services:
+  pupadrive:
+    image: pupadrive
+    container_name: pupadrive
+    volumes:
+      - ./downloads:/go/src/app/downloads
+    network_mode: "service:gluetun"
+    restart: always
+  gluetun:
+    image: qmcgaw/gluetun
+    container_name: gluetun
+    cap_add:
+      - NET_ADMIN
+    # if you face any errors, check: https://github.com/qdm12/gluetun/wiki/TUN-device-errors
+    environment:
+      - VPN_SERVICE_PROVIDER=perfect privacy
+      - OPENVPN_USER=YOUR_USERNAME
+      - OPENVPN_PASSWORD=YOUR_PW
+      - SERVER_CITIES=Amsterdam
+      - DOT=off
+      - DNS_ADDRESS=1.1.1.1
+    restart: always

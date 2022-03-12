@@ -1,0 +1,10 @@
+*.txt
+.github/
+README.md
+Dockerfile
+docker-compose.yaml
+.git
+.dockerignore
+.gitignore
+.vscode
+downloads/

@@ -21,7 +21,6 @@ func GetTorrentConfig() *torrent.ClientConfig {
 	random := rand.Intn(max-min) + min
 
 	clientConfig := torrent.NewDefaultClientConfig()
-	clientConfig.HTTPProxy = GetProxy()
 	clientConfig.HTTPUserAgent = "Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; T312461; .NET CLR 1.0.3705)"
 	clientConfig.Seed = false
 	clientConfig.ListenPort = random
