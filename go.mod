@@ -7,7 +7,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/kkdai/youtube/v2 v2.7.12
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
-	google.golang.org/api v0.76.0
+	google.golang.org/api v0.77.0
 )
 
 require gopkg.in/tucnak/telebot.v3 v3.0.0-20211217125808-d053f01c3002
