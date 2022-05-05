@@ -620,8 +620,8 @@ github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51/go.mod h1:C
 github.com/kisielk/errcheck v1.1.0/go.mod h1:EZBBE59ingxPouuu3KfxchcWSUPOHkagtvWXihfKN4Q=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
-github.com/kkdai/youtube/v2 v2.7.12 h1:IBc5CvrfSOgSLYfJYwttSp+2TfS/Fs5Wvm7Yjkp6hkw=
-github.com/kkdai/youtube/v2 v2.7.12/go.mod h1:Lj0+AMQtlcxTwrcf+Ja6OeGzGGf214j9kEQNDDwlSHc=
+github.com/kkdai/youtube/v2 v2.7.13 h1:nzBl0sCHEAOiOLLp41kF0qxHSLaXIhmf+1zO2ATBBg4=
+github.com/kkdai/youtube/v2 v2.7.13/go.mod h1:Lj0+AMQtlcxTwrcf+Ja6OeGzGGf214j9kEQNDDwlSHc=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/konsorten/go-windows-terminal-sequences v1.0.3/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/kr/fs v0.1.0/go.mod h1:FFnZGqtBN9Gxj7eW1uZ42v5BccTP0vu6NEaFoC2HwRg=
