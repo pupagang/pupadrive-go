@@ -3,7 +3,7 @@ module pupadrive.go
 go 1.17
 
 require (
-	github.com/anacrolix/torrent v1.42.0
+	github.com/anacrolix/torrent v1.43.1
 	github.com/dustin/go-humanize v1.0.0
 	github.com/kkdai/youtube/v2 v2.7.13
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
@@ -15,13 +15,16 @@ require gopkg.in/tucnak/telebot.v3 v3.0.0-20211217125808-d053f01c3002
 require (
 	cloud.google.com/go/compute v1.6.1 // indirect
 	crawshaw.io/sqlite v0.3.3-0.20210127221821-98b1f83c5508 // indirect
-	github.com/ajwerner/btree v0.0.0-20211201061316-91c8b66ad617 // indirect
-	github.com/anacrolix/generics v0.0.0-20220217222028-44932cf46edd // indirect
+	github.com/ajwerner/btree v0.0.0-20211221152037-f427b3e689c0 // indirect
+	github.com/anacrolix/generics v0.0.0-20220510042907-b50562b436ec // indirect
+	github.com/bahlo/generic-list-go v0.2.0 // indirect
+	github.com/lispad/go-generics-tools v1.0.0 // indirect
 	github.com/tidwall/btree v0.7.2-0.20211211132910-4215444137fc // indirect
+	golang.org/x/exp v0.0.0-20220428152302-39d4317da171 // indirect
 )
 
 require (
-	github.com/RoaringBitmap/roaring v0.9.4 // indirect
+	github.com/RoaringBitmap/roaring v1.0.1-0.20220510143707-3f418c4f42a4 // indirect
 	github.com/anacrolix/chansync v0.3.0 // indirect
 	github.com/anacrolix/dht/v2 v2.16.2-0.20220311024416-dd658f18fd51 // indirect
 	github.com/anacrolix/envpprof v1.2.1 // indirect
@@ -29,7 +32,7 @@ require (
 	github.com/anacrolix/log v0.13.1 // indirect
 	github.com/anacrolix/missinggo v1.3.0 // indirect
 	github.com/anacrolix/missinggo/perf v1.0.0 // indirect
-	github.com/anacrolix/missinggo/v2 v2.5.4-0.20220317032254-8c5ea4947a0b // indirect
+	github.com/anacrolix/missinggo/v2 v2.7.0 // indirect
 	github.com/anacrolix/mmsg v1.0.0 // indirect
 	github.com/anacrolix/multiless v0.3.0 // indirect
 	github.com/anacrolix/stm v0.3.0 // indirect
