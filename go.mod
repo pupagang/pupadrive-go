@@ -3,7 +3,7 @@ module pupadrive.go
 go 1.17
 
 require (
-	github.com/anacrolix/torrent v1.43.1
+	github.com/anacrolix/torrent v1.44.0
 	github.com/dustin/go-humanize v1.0.0
 	github.com/kkdai/youtube/v2 v2.7.15
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
