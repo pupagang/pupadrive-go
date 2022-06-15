@@ -6,8 +6,8 @@ require (
 	github.com/anacrolix/torrent v1.44.0
 	github.com/dustin/go-humanize v1.0.0
 	github.com/kkdai/youtube/v2 v2.7.15
-	golang.org/x/oauth2 v0.0.0-20220524215830-622c5d57e401
-	google.golang.org/api v0.83.0
+	golang.org/x/oauth2 v0.0.0-20220608161450-d0670ef3b1eb
+	google.golang.org/api v0.84.0
 )
 
 require gopkg.in/tucnak/telebot.v3 v3.0.0-20211217125808-d053f01c3002
@@ -18,6 +18,7 @@ require (
 	github.com/ajwerner/btree v0.0.0-20211221152037-f427b3e689c0 // indirect
 	github.com/anacrolix/generics v0.0.0-20220510042907-b50562b436ec // indirect
 	github.com/bahlo/generic-list-go v0.2.0 // indirect
+	github.com/googleapis/enterprise-certificate-proxy v0.0.0-20220520183353-fd19c99a87aa // indirect
 	github.com/lispad/go-generics-tools v1.0.0 // indirect
 	github.com/tidwall/btree v0.7.2-0.20211211132910-4215444137fc // indirect
 	golang.org/x/exp v0.0.0-20220428152302-39d4317da171 // indirect
@@ -81,12 +82,12 @@ require (
 	golang.org/x/crypto v0.0.0-20220307211146-efcb8507fb70 // indirect
 	golang.org/x/net v0.0.0-20220607020251-c690dde0001d // indirect
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f // indirect
-	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a // indirect
+	golang.org/x/sys v0.0.0-20220610221304-9f5ed59c137d // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20220224211638-0e9765cccd65 // indirect
-	golang.org/x/xerrors v0.0.0-20220517211312-f3a8303e98df // indirect
+	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto v0.0.0-20220602131408-e326c6e8e9c8 // indirect
+	google.golang.org/genproto v0.0.0-20220608133413-ed9918b62aac // indirect
 	google.golang.org/grpc v1.47.0 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
 )
