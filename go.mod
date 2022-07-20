@@ -3,7 +3,7 @@ module pupadrive.go
 go 1.17
 
 require (
-	github.com/anacrolix/torrent v1.44.0
+	github.com/anacrolix/torrent v1.46.0
 	github.com/dustin/go-humanize v1.0.0
 	github.com/kkdai/youtube/v2 v2.7.15
 	golang.org/x/oauth2 v0.0.0-20220524215830-622c5d57e401
@@ -16,10 +16,10 @@ require (
 	cloud.google.com/go/compute v1.6.1 // indirect
 	crawshaw.io/sqlite v0.3.3-0.20210127221821-98b1f83c5508 // indirect
 	github.com/ajwerner/btree v0.0.0-20211221152037-f427b3e689c0 // indirect
-	github.com/anacrolix/generics v0.0.0-20220510042907-b50562b436ec // indirect
+	github.com/anacrolix/generics v0.0.0-20220618083756-f99e35403a60 // indirect
 	github.com/bahlo/generic-list-go v0.2.0 // indirect
 	github.com/lispad/go-generics-tools v1.0.0 // indirect
-	github.com/tidwall/btree v0.7.2-0.20211211132910-4215444137fc // indirect
+	github.com/tidwall/btree v1.3.1 // indirect
 	golang.org/x/exp v0.0.0-20220428152302-39d4317da171 // indirect
 )
 
