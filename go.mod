@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/anacrolix/torrent v1.46.0
-	github.com/dustin/go-humanize v1.0.0
+	github.com/dustin/go-humanize v1.0.1
 	github.com/kkdai/youtube/v2 v2.7.15
 	golang.org/x/oauth2 v0.0.0-20220524215830-622c5d57e401
 	google.golang.org/api v0.83.0
